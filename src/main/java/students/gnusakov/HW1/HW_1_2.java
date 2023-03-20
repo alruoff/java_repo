@@ -1,4 +1,4 @@
-package students.rusakov.HW1;
+package students.gnusakov.HW1;
 
 //1)    В классе IntegerListDemo создайте список целых чисел.
 //      Продемонстрируйте как:

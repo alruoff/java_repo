@@ -1,6 +1,9 @@
-package students.rusakov.HW1;
+package students.gnusakov.HW1;
 
-import java.util.*;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
+import java.util.Random;
 
 //      3) создать List наполнить его 10М> элементами
 //      При наполнении списка  сохраняем i- тый элемент в переменную temp

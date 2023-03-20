@@ -1,6 +1,8 @@
-package students.rusakov.HW1;
+package students.gnusakov.HW1;
 
-import java.util.*;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
 
 public class IntegerListDemo {
     // create class List with Integer as elements...
